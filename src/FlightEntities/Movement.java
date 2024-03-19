@@ -1,2 +1,6 @@
-package FlightEntities;public class Movement {
+package FlightEntities;
+
+public interface Movement extends Flight {
+    void walk();
+    void jump();
 }

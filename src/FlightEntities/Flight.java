@@ -1,2 +1,5 @@
-package FlightEntities;public class Flight {
+package FlightEntities;
+
+public interface Flight {
+    void fly();
 }
