@@ -1,22 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18014dee-6619-4f69-9f14-e20c520e4ae3" name="Changes" comment="">
+    <list default="true" id="18014dee-6619-4f69-9f14-e20c520e4ae3" name="Changes" comment="init commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FarmAnimals/Chicken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FarmAnimals/Chicken.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FarmAnimals/Cow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FarmAnimals/Cow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FarmAnimals/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FarmAnimals/Duck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FarmAnimals/FarmAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FarmAnimals/FarmAnimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FarmAnimals/MyFarm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FarmAnimals/MyFarm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FlightEntities/Airplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FlightEntities/Airplane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FlightEntities/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FlightEntities/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FlightEntities/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FlightEntities/Flight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FlightEntities/Movement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FlightEntities/Movement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FlightEntities/ThingsThatMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FlightEntities/ThingsThatMove.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FlyingObjects/Airplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FlyingObjects/Airplane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FlyingObjects/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FlyingObjects/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FlyingObjects/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FlyingObjects/Flight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FlyingObjects/ThingsThatFly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FlyingObjects/ThingsThatFly.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +46,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710530275211</updated>
-      <workItem from="1710530276707" duration="2891000" />
+      <workItem from="1710530276707" duration="3786000" />
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1710809606496</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710809606496</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,5 +71,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
 </project>
